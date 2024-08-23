@@ -18,3 +18,36 @@
   100%
     transform: translateY(0px)
 
+//Banners
+.banner-principal__row
+  .banner-principal__img
+    padding-right: 0 !important
+    padding-top: 0 !important
+    padding-bottom: 0 !important
+    img
+      margin-left: auto
+      max-width: 516px
+.banner-principal .tarjeta
+  background-position: inherit
+  @media screen and (max-width: $bp-max-md)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-md.png) !important
+  @media screen and (max-width: $bp-max-xs)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-movil.png) !important
+
+//bordes
+.no-borde
+  border: none !important
+.borde-8
+  border-radius: 8px
+.borde-10
+  border-radius: 10px
+.borde-14
+  border-radius: 14px
+.borde-20
+  border-radius: 20px
+  
+//colores
+.fondo-color-sistema-i
+  background-color: $color-sistema-i
+.fondo-color-sistema-j
+  background-color: $color-sistema-j

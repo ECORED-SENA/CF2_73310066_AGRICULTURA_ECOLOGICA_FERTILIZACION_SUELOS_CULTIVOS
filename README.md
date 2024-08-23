@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Manejo agroecológico de suelos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF2_73310066_AGRICULTURA_ECOLOGICA_FERTILIZACION_SUELOS_CULTIVOS/#/](https://ecored-sena.github.io/CF2_73310066_AGRICULTURA_ECOLOGICA_FERTILIZACION_SUELOS_CULTIVOS/#/)
 
 #
 

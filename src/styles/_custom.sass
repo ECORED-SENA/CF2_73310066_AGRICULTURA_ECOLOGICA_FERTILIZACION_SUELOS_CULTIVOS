@@ -57,6 +57,10 @@
   border-radius: 15px
 .borde-20
   border-radius: 20px
+.borde-22
+  border-radius: 22px
+.borde-23
+  border-radius: 23px
   
 //colores
 .fondo-color-sistema-i
@@ -71,11 +75,25 @@
   background-color: $color-sistema-m
 .fondo-color-sistema-n
   background-color: $color-sistema-n
+.fondo-color-sistema-o
+  background-color: $color-sistema-o
+.fondo-color-sistema-p
+  background-color: $color-sistema-p
+.fondo-color-sistema-q
+  background-color: $color-sistema-q
+.fondo-color-sistema-r
+  background-color: $color-sistema-r
 .fondo-color-secundario
   background-color: $color-secundario
+.fondo-color-acento-contenido
+  background-color: $color-acento-contenido
 
 .c-color-sistema-n
   color: $color-sistema-n
+.c-color-sistema-o
+  color: $color-sistema-o
+.c-color-acento-contenido
+  color: $color-acento-contenido
 
 //fondos
 .fondo-personalizado-1
@@ -121,6 +139,11 @@
       background-size: 100%
       @media screen and (max-width: $bp-max-md)
         background-size: cover
+  &.pos-auto
+    &:before
+      background-size: auto
+      @media screen and (max-width: $bp-max-md)
+        background-size: cover
   &.bottom-1
     &:before
       bottom: 140px 
@@ -140,8 +163,39 @@
     &:before
       border-top-right-radius: 20px 
       background-image: url(../assets/curso/temas/16.png)
+  &.f5
+    &:before
+      background-size: auto
+      background-position: center
+      background-image: url(../assets/curso/temas/32.png)
+  &.f6
+    &:before
+      background: rgb(255,252,252)
+      background: linear-gradient(180deg, rgba(255,252,252,0) 0%, rgba(255,240,239,1) 25%, rgba(255,240,239,1) 75%, rgba(255,252,252,1) 100%)
+  &.f7
+    &:before
+      background-image: url(../assets/curso/temas/63.png)
+  &.f8
+    &:before
+      background-image: url(../assets/curso/temas/68.png)
+  &.f9
+    &:before
+      background-position: center
+      background-image: url(../assets/curso/temas/83.png)
+  &.f10
+    &:before
+      background-image: url(../assets/curso/temas/90.png)
+  &.f11
+    &:before
+      background-image: url(../assets/curso/temas/92.png)
   &__contenido
     position: relative
+
+//sombras
+.sombra-p-1
+  -webkit-box-shadow: 3px 3px 20px 0px rgba(0,0,0,0.16)
+  -moz-box-shadow: 3px 3px 20px 0px rgba(0,0,0,0.16)
+  box-shadow: 3px 3px 20px 0px rgba(0,0,0,0.16)
   
 //titulos
 .titulo-decorativo
@@ -228,3 +282,15 @@
     border-bottom: 2px solid #AFAFAF
   .tabs-b__content-item
     background-color: #FBF8EC
+
+.tabs-p-2
+  .tabs-a__tab
+    background-color: $color-acento-contenido
+
+//tarjetas
+.tarjeta-p-1
+  background-color: $color-sistema-k
+  border-radius: 23px
+  transition: background-color .3s
+  &:hover
+    background-color: $color-sistema-l

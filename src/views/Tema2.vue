@@ -121,7 +121,7 @@
             .col-lg-6
               TarjetaAudio.tarjeta-p-2(
                 texto="El suelo como sistema"
-                :audio="require('@/assets/componentes/audios/CF02_T2_P1_01.mp3')"
+                :audio="require('@/assets/componentes/audios/suelo_como_sistema.mp3')"
                 tiempo
               )
 

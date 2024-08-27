@@ -622,7 +622,7 @@
             .col-lg-6
               TarjetaAudio.tarjeta-p-2(
                 texto="Practicas agroecológicas"
-                :audio="require('@/assets/componentes/audios/CF02_T2_P1_01.mp3')"
+                :audio="require('@/assets/componentes/audios/practicas_agroecologicas.mp3')"
                 tiempo
               )
 

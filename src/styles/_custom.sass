@@ -83,6 +83,8 @@
   background-color: $color-sistema-q
 .fondo-color-sistema-r
   background-color: $color-sistema-r
+.fondo-color-sistema-s
+  background-color: $color-sistema-s
 .fondo-color-secundario
   background-color: $color-secundario
 .fondo-color-acento-contenido
@@ -188,6 +190,9 @@
   &.f11
     &:before
       background-image: url(../assets/curso/temas/92.png)
+  &.f12
+    &:before
+      background-image: url(../assets/curso/temas/93.png)
   &__contenido
     position: relative
 
@@ -294,3 +299,56 @@
   transition: background-color .3s
   &:hover
     background-color: $color-sistema-l
+
+.tarjeta-p-2
+  border-radius: 15px
+  border-color: #ECDB9F
+  background-color: #FCFAEE
+  border-width: 3px
+  .row
+    .col-auto
+      align-self: flex-start
+  .tarjeta-audio__texto
+    font-style: normal !important
+    margin-bottom: 2.5rem !important
+  .audio__btn
+    background-color: #6C8BB1 !important
+  .tarjeta-audio__tiempo
+    span
+      font-weight: normal
+      &:last-child
+        margin-right: -2rem
+  .tarjeta-audio__input
+    margin-right: -2rem
+    input[type=range]
+      background: #F3D02C
+      background-image: linear-gradient(#B09824, #B09824)
+      &::-webkit-slider-thumb
+        background: #B09824
+      &::-moz-range-thumb
+        background: #B09824
+
+.crd_hover_txt
+  position: relative
+  padding: 0 !important
+  overflow: hidden !important
+  img
+    border-bottom-left-radius: 26px
+    border-bottom-right-radius: 26px
+  &:hover
+    .crd_hover_txt--body
+      transition: all .5s ease-in-out
+      transform: translateY(0)
+      h4
+        color: $color-sistema-texto
+      background-color: $color-sistema-k
+  .crd_hover_txt--body
+    width: 100%
+    position: absolute
+    padding: 1.5rem
+    bottom: 0
+    transition: all .5s ease-in-out
+    transform: translateY(calc(100% - 3.85rem))
+    background-color: $color-sistema-q
+    h4
+      color: $white

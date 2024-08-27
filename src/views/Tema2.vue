@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
       h1 El suelo como sistema
@@ -10,16 +10,16 @@
     .fondo-personalizado-1.f5.mb-4
       .fondo-personalizado-1__contenido
         .row.mb-4 
-          .col-lg-5.align-self-center
+          .col-lg-5.align-self-center(data-aos="fade-right")
             figure.mb-4.mb-lg-0
               img.mx-auto(src="@/assets/curso/temas/23.png",style="max-width: 505px;")
-          .col-lg-7
+          .col-lg-7(data-aos="fade-left")
             .fondo-color-sistema-k.p-4.h-100.align-content-center.borde-15
               p.mb-0 Un sistema es un conjunto de elementos que se interrelacionan entre sí. Los sistemas abiertos reciben entradas y generan salidas provenientes de las dinámicas internas del sistema. El agroecosistema es un sistema artificial debido a la intervención humana con labores de producción agrícola sostenibles. Dentro del agroecosistema existe el subsistema del suelo.
         
-        p.mb-4 #[span.fw-bold.c-color-sistema-n Las entradas] en el sistema del suelo son: 
+        p.mb-4(data-aos="fade") #[span.fw-bold.c-color-sistema-n Las entradas] en el sistema del suelo son: 
 
-        TabsB.tabs-p-1.color-acento-contenido
+        TabsB.tabs-p-1.color-acento-contenido(data-aos="flip-up")
           .row.justify-content-center.py-4.py-lg-5(titulo="Rocas (material parental)" :icono="require('@/assets/curso/temas/25.svg')")
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-4 Rocas (material parental)
@@ -49,13 +49,13 @@
               figure
                 img.mx-auto(src="@/assets/curso/temas/30.png",style="max-width: 412px;")
     
-    p.mb-4 Las salidas en el sistema del suelo son: 
+    p.mb-4(data-aos="fade-up") Las salidas en el sistema del suelo son: 
 
     .row.align-items-center.mb-4
-      .col-lg-5
+      .col-lg-5(data-aos="fade-right")
         figure.mb-4.mb-lg-0
           img.mx-auto(src="@/assets/curso/temas/33.png",style="max-width: 505px;")
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         .fondo-color-acento-contenido.sombra-p-1.p-3.borde-10.mb-4
           .row.align-items-center 
             .col-md-auto
@@ -106,9 +106,9 @@
             .col
               p.mb-0 #[b Pérdidas de aire:] Por sobre mecanización y pulverización del suelo con labranzas no adecuadas.
     
-    p.mb-4 #[span.c-color-sistema-o.fw-bold Las plantas toman del suelo los minerales para su nutrición y el agua para su supervivencia.] Estos minerales deben estar en formas químicas disponibles para su absorción, las cuales están presentes de forma natural en suelos no degradados. Sin embargo, en la agricultura, y debido a la explotación agrícola, estas formas pueden estar agotadas. Por ello, es necesario restituir al suelo las condiciones para hacer disponibles los nutrientes.
+    p.mb-4(data-aos="fade-down") #[span.c-color-sistema-o.fw-bold Las plantas toman del suelo los minerales para su nutrición y el agua para su supervivencia.] Estos minerales deben estar en formas químicas disponibles para su absorción, las cuales están presentes de forma natural en suelos no degradados. Sin embargo, en la agricultura, y debido a la explotación agrícola, estas formas pueden estar agotadas. Por ello, es necesario restituir al suelo las condiciones para hacer disponibles los nutrientes.
 
-    .fondo-color-sistema-p.p-4.borde-15
+    .fondo-color-sistema-p.p-4.borde-15.pb-5(data-aos="zoom-in-out")
       .row 
         .col-lg-3
           figure.mb-4.mb-lg-0
@@ -116,7 +116,14 @@
         .col-lg-9
           h3.c-color-acento-contenido.mb-4 Podcast
           p.text-white.mb-4 Es momento de escuchar el podcast en el que Don Campos, Azusena, el ingeniero y Evaristo explicarán detalladamente la importancia del suelo. En este episodio, abordarán temas como la fertilidad del suelo y su papel en la producción agroecológica.
-          p(style="color: red;") Falta seccion de podcast aqui.
+
+          .row 
+            .col-lg-6
+              TarjetaAudio.tarjeta-p-2(
+                texto="El suelo como sistema"
+                :audio="require('@/assets/componentes/audios/CF02_T2_P1_01.mp3')"
+                tiempo
+              )
 
 </template>
 

@@ -183,7 +183,7 @@ export default {
     {
       termino: 'Captura de carbono',
       significado:
-        'el proceso de captura y almacenamiento de dióxido de carbono (CO2) de la atmósfera. En la agricultura regenerativa, esto se logra mediante prácticas que aumentan la cantidad de carbono almacenado en el suelo, como la plantación de cultivos de cobertura y la mejora de la salud del suelo.',
+        'el proceso de captura y almacenamiento de dióxido de carbono (CO<sub>2</sub>) de la atmósfera. En la agricultura regenerativa, esto se logra mediante prácticas que aumentan la cantidad de carbono almacenado en el suelo, como la plantación de cultivos de cobertura y la mejora de la salud del suelo.',
     },
     {
       termino: 'Compostaje',
@@ -288,6 +288,21 @@ export default {
           cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Gissela Del Carmen Alvis Ladino',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Gloria Lida Alzate Suarez',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
       ],
     },
     {
@@ -303,11 +318,56 @@ export default {
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locutor',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Locutor',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Germán Acosta Ramos',
+          cargo: 'Locutor',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locutor',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Productor pódcast',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'José Eduardo Solano Rivero',
+          cargo: 'Productor pódcast',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Gustavo Adolfo Contreras Barranco',
+          cargo: 'Guionista validador',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Zuleidy María Ruiz Torres',
+          cargo: 'Guionista validador',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validador de recursos educativos digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',

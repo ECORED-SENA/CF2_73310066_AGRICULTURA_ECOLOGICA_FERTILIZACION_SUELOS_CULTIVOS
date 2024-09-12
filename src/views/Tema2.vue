@@ -62,49 +62,49 @@
               figure.mb-4.mb-md-0
                 img.mx-auto(src="@/assets/curso/temas/34.svg",style="max-width: 39px;") 
             .col
-              p.mb-0 Producción agrícola
+              p.mb-0 Producción agrícola.
         .fondo-color-acento-contenido.sombra-p-1.p-3.borde-10.mb-4
           .row.align-items-center 
             .col-md-auto
               figure.mb-4.mb-md-0
                 img.mx-auto(src="@/assets/curso/temas/35.svg",style="max-width: 39px;") 
             .col
-              p.mb-0 Residuos de cosecha
+              p.mb-0 Residuos de cosecha.
         .fondo-color-acento-contenido.sombra-p-1.p-3.borde-10.mb-4
           .row.align-items-center 
             .col-md-auto
               figure.mb-4.mb-md-0
                 img.mx-auto(src="@/assets/curso/temas/36.svg",style="max-width: 32px;") 
             .col
-              p.mb-0 Oxígeno proveniente de la fotosíntesis
+              p.mb-0 Oxígeno proveniente de la fotosíntesis.
         .fondo-color-acento-contenido.sombra-p-1.p-3.borde-10.mb-4
           .row.align-items-center 
             .col-md-auto
               figure.mb-4.mb-md-0
                 img.mx-auto(src="@/assets/curso/temas/37.svg",style="max-width: 38px;") 
             .col
-              p.mb-0 #[b Pérdidas de fracción mineral:] Por erosión natural o inducida por prácticas nocivas.
+              p.mb-0 #[b Pérdidas de fracción mineral:] por erosión natural o inducida por prácticas nocivas.
         .fondo-color-acento-contenido.sombra-p-1.p-3.borde-10.mb-4
           .row.align-items-center 
             .col-md-auto
               figure.mb-4.mb-md-0
                 img.mx-auto(src="@/assets/curso/temas/38.svg",style="max-width: 40px;") 
             .col
-              p.mb-0 #[b Pérdidas de materia orgánica:] Por mal manejo de suelos, intoxicación de la fracción viva, y/o sobre mecanización.
+              p.mb-0 #[b Pérdidas de materia orgánica:] por mal manejo de suelos, intoxicación de la fracción viva, y/o sobre mecanización.
         .fondo-color-acento-contenido.sombra-p-1.p-3.borde-10.mb-4
           .row.align-items-center 
             .col-md-auto
               figure.mb-4.mb-md-0
                 img.mx-auto(src="@/assets/curso/temas/39.svg",style="max-width: 41px;") 
             .col
-              p.mb-0 #[b Pérdidas de agua:] Por falta de elementos retenedores como la materia orgánica.
+              p.mb-0 #[b Pérdidas de agua:] por falta de elementos retenedores como la materia orgánica.
         .fondo-color-acento-contenido.sombra-p-1.p-3.borde-10.mb-4
           .row.align-items-center 
             .col-md-auto
               figure.mb-4.mb-md-0
                 img.mx-auto(src="@/assets/curso/temas/40.svg",style="max-width: 43px;") 
             .col
-              p.mb-0 #[b Pérdidas de aire:] Por sobre mecanización y pulverización del suelo con labranzas no adecuadas.
+              p.mb-0 #[b Pérdidas de aire:] por sobre mecanización y pulverización del suelo con labranzas no adecuadas.
     
     p.mb-4(data-aos="fade-down") #[span.c-color-sistema-o.fw-bold Las plantas toman del suelo los minerales para su nutrición y el agua para su supervivencia.] Estos minerales deben estar en formas químicas disponibles para su absorción, las cuales están presentes de forma natural en suelos no degradados. Sin embargo, en la agricultura, y debido a la explotación agrícola, estas formas pueden estar agotadas. Por ello, es necesario restituir al suelo las condiciones para hacer disponibles los nutrientes.
 
@@ -114,8 +114,8 @@
           figure.mb-4.mb-lg-0
             img.mx-auto(src="@/assets/curso/temas/41.svg",style="max-width: 270px;")
         .col-lg-9
-          h3.c-color-acento-contenido.mb-4 Podcast
-          p.text-white.mb-4 Es momento de escuchar el podcast en el que Don Campos, Azusena, el ingeniero y Evaristo explicarán detalladamente la importancia del suelo. En este episodio, abordarán temas como la fertilidad del suelo y su papel en la producción agroecológica.
+          h3.c-color-acento-contenido.mb-4 Pódcast
+          p.text-white.mb-4 Es momento de escuchar el pódcast en el que Don Campos, Azusena, el ingeniero y Evaristo explicarán detalladamente la importancia del suelo. En este episodio, abordarán temas como la fertilidad del suelo y su papel en la producción agroecológica.
 
           .row 
             .col-lg-6

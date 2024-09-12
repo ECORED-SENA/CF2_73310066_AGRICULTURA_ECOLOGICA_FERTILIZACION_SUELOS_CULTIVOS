@@ -44,7 +44,7 @@
         figure.mb-4
           img.mx-auto(src="@/assets/curso/temas/47.svg",style="max-width: 85px;")
       .col 
-        p.mb-0 La planta, como ser vivo, utiliza la luz solar y el gas carbónico (CO2) para producir en presencia de agua y nutrientes compuestos, tales como carbohidratos, proteínas, aceites y vitaminas. Los nutrientes son aportados a través del suelo, el agua y el aire. Su adecuado aprovechamiento mantiene a los cultivos en equilibrio nutricional, logrando la buena salud de las plantas, necesaria para enfrentar los ataques de plagas y enfermedades.
+        p.mb-0 La planta, como ser vivo, utiliza la luz solar y el gas carbónico (CO#[sub 2]) para producir en presencia de agua y nutrientes compuestos, tales como carbohidratos, proteínas, aceites y vitaminas. Los nutrientes son aportados a través del suelo, el agua y el aire. Su adecuado aprovechamiento mantiene a los cultivos en equilibrio nutricional, logrando la buena salud de las plantas, necesaria para enfrentar los ataques de plagas y enfermedades.
     
     .fondo-personalizado-1.f6(data-aos="flip-up")
       .fondo-personalizado-1__contenido.py-5.pb-0
@@ -104,7 +104,7 @@
           .cont-text 
             h3 Conservación de organismos y microorganismos
         
-        p.mb-4(data-aos="fade-left") El suelo es el hábitat natural de organismos, como la lombriz de tierra, y microorganismos: hongos, bacterias, protozoos y virus que son fundamentales en la descomposición de la materia orgánica hacia formas disponibles para las plantas.
+        p.mb-4(data-aos="fade-left") El suelo es el hábitat natural de organismos, como la lombriz de tierra, y microorganismos: hongos, bacterias, protozoos y virus, que son fundamentales en la descomposición de la materia orgánica hacia formas disponibles para las plantas.
 
         .row.align-items-center(data-aos="fade-down")
           .col-lg-3
@@ -120,7 +120,7 @@
                   p El uso de agroquímicos tiene efectos negativos sobre las poblaciones naturales del suelo, por lo que su uso es restringido en la agricultura ecológica y es reemplazado por productos naturales.
               .div(titulo="Adición de materia orgánica descompuesta")
                 .ps-md-5.ms-md-3
-                  p En forma de “compost”, enriquece el suelo y favorece tanto la multiplicación como la supervivencia de organismos y microorganismos.
+                  p En forma de #[em “compost”], enriquece el suelo y favorece tanto la multiplicación como la supervivencia de organismos y microorganismos.
     
     .titulo-decorativo.my-5(data-aos="fade")
       .cont-figura
@@ -615,7 +615,7 @@
           figure.mb-4.mb-lg-0
             img.mx-auto(src="@/assets/curso/temas/41.svg",style="max-width: 270px;")
         .col-lg-9
-          h3.c-color-acento-contenido.mb-4 Podcast
+          h3.c-color-acento-contenido.mb-4 Pódcast
           p.text-white.mb-4 Los invitamos a escuchar el episodio, en esta ocasión, Don Campos y Azusena se unirán para explicar detalladamente la importancia del suelo en la agricultura. Descubran cómo mantener un suelo sano y fértil mediante prácticas agroecológicas que no solo mejoran la calidad de las cosechas, sino que también contribuyen a la sostenibilidad del medio ambiente. ¡No se lo pierdan!
 
           .row 

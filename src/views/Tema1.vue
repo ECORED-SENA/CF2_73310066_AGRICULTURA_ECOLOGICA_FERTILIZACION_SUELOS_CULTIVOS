@@ -98,8 +98,8 @@
             th(colspan="2") Proporciones en un suelo ideal
         tbody
           tr
-            td.text-center.fw-bold(style="background-color: #F7F0D8;") 45% minerales
-            td.text-center.fw-bold(style="background-color: #FDF7E6;") 5% materia orgánica
+            td.text-center.fw-bold(style="background-color: #F7F0D8;") 45 % minerales
+            td.text-center.fw-bold(style="background-color: #FDF7E6;") 5 % materia orgánica
     
     ul.lista-ul.lista-p-1.mb-4(data-aos="fade-down")
       li.mb-0
@@ -117,14 +117,14 @@
               figure.mb-4.mb-md-0
                 img.mx-auto(src="@/assets/curso/temas/14.svg",style="max-width: 78px;")
             .col
-              p.mb-0 #[span.fw-bold 25% agua:] vital para la producción agrícola.
+              p.mb-0 #[span.fw-bold 25 % agua:] vital para la producción agrícola.
         .fondo-color-sistema-m.p-3.borde-10
           .row.align-items-center 
             .col-md-auto 
               figure.mb-4.mb-md-0
                 img.mx-auto(src="@/assets/curso/temas/15.svg",style="max-width: 78px;")
             .col
-              p.mb-0 #[span.fw-bold 25% aire:] propicia la vida en los organismos y microorganismos del suelo, permitiendo el intercambio entre las raíces de las plantas y el suelo mismo.
+              p.mb-0 #[span.fw-bold 25 % aire:] propicia la vida en los organismos y microorganismos del suelo, permitiendo el intercambio entre las raíces de las plantas y el suelo mismo.
     
     p.mb-4(data-aos="fade") Las prácticas agroecológicas de manejo de suelos son:
 

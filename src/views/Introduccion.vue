@@ -25,7 +25,7 @@
                     img.mx-auto(src="@/assets/curso/temas/2.svg",style="max-width: 66px;")
                 .col
                   p.mb-0 Este componente profundiza en los conceptos y prácticas agroecológicas, abarcando desde la comprensión del suelo como sistema hasta las estrategias específicas para su manejo. Se exploran prácticas de conservación, recuperación y fertilización del suelo, todas orientadas a mantener su salud y productividad a largo plazo.
-            p.mb-0(data-aos="fade-left") La agroecología busca reducir la dependencia de insumos externos y mitigar los efectos negativos de la agricultura convencional. Al integrar conocimientos ancestrales y tecnologías modernas, se favorece una producción agrícola sostenible que respeta el medio ambiente y promueve la resiliencia de los ecosistemas agrícolas.
+            p.mb-0(data-aos="fade-left") La agroecología busca reducir la dependencia de insumos externos y mitigar los efectos negativos de la agricultura convencional. Al integrar conocimientos ancestrales y tecnologías modernas, se favorece una producción agrícola sostenible que respeta el medioambiente y promueve la resiliencia de los ecosistemas agrícolas.
 </template>
 
 <script>

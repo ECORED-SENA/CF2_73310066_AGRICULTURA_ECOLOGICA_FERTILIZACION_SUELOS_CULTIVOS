@@ -56,9 +56,9 @@
                   p Se disminuye la dependencia de insumos externos. Al fomentar el uso de recursos locales y naturales, como compost y abonos orgánicos, los agricultores pueden reducir su dependencia de fertilizantes y pesticidas sintéticos, lo que también disminuye los costos y el impacto ambiental.
               .div(titulo="Recuperación de saberes ancestrales")
                 .ps-md-5.ms-md-3
-                  p Se recuperan conocimientos tradicionales y ancestrales. El manejo agroecológico de suelos integra prácticas y conocimientos tradicionales que han sido desarrollados por comunidades locales a lo largo de generaciones. Estos saberes son valiosos para el desarrollo de técnicas agrícolas sostenibles que respeten y trabajen en armonía con el medio ambiente.
+                  p Se recuperan conocimientos tradicionales y ancestrales. El manejo agroecológico de suelos integra prácticas y conocimientos tradicionales que han sido desarrollados por comunidades locales a lo largo de generaciones. Estos saberes son valiosos para el desarrollo de técnicas agrícolas sostenibles que respeten y trabajen en armonía con el medioambiente.
         
-        p.mb-4(data-aos="fade-up") Estas prácticas contribuyen a la sostenibilidad y eficiencia de los sistemas agroecológicos, promoviendo un equilibrio natural y una producción más respetuosa con el medio ambiente.
+        p.mb-4(data-aos="fade-up") Estas prácticas contribuyen a la sostenibilidad y eficiencia de los sistemas agroecológicos, promoviendo un equilibrio natural y una producción más respetuosa con el medioambiente.
 
         .row(data-aos="fade-up")
           .col-lg-7

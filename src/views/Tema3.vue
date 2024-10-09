@@ -87,12 +87,12 @@
           figure.mb-4.mb-md-0
             img.mx-auto(src="@/assets/curso/temas/52.svg",style="max-width: 80px;")
         .col 
-          p.mb-0 Estas prácticas buscan mantener la fertilidad del suelo, prevenir su degradación y promover la salud de los cultivos a través de métodos sostenibles y respetuosos con el medio ambiente.
+          p.mb-0 Estas prácticas buscan mantener la fertilidad del suelo, prevenir su degradación y promover la salud de los cultivos a través de métodos sostenibles y respetuosos con el medioambiente.
     
     Separador
 
-    #t_3_1.titulo-segundo.color-acento-contenido.mb-3(data-aos="fade-right")
-      h2 3.1 Prácticas de conservación de suelos
+    #t_3_2.titulo-segundo.color-acento-contenido.mb-3(data-aos="fade-right")
+      h2 3.2 Prácticas de conservación de suelos
     
     .fondo-personalizado-1.pos-auto.f2
       .fondo-personalizado-1__contenido.pt-4
@@ -355,8 +355,8 @@
     
     Separador
 
-    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-up")
-      h2 3.2 Prácticas de recuperación de suelos
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-up")
+      h2 3.3 Prácticas de recuperación de suelos
     
     .row 
       .col-lg-5(data-aos="fade-right")
@@ -501,8 +501,8 @@
 
     Separador
 
-    #t_3_3.titulo-segundo.color-acento-contenido.mb-0(data-aos="fade-right")
-      h2 3.3 Prácticas de fertilización agroecológica
+    #t_3_4.titulo-segundo.color-acento-contenido.mb-0(data-aos="fade-right")
+      h2 3.4 Prácticas de fertilización agroecológica
     
     .fondo-personalizado-1.f11
       .fondo-personalizado-1__contenido.py-5
@@ -616,7 +616,7 @@
             img.mx-auto(src="@/assets/curso/temas/41.svg",style="max-width: 270px;")
         .col-lg-9
           h3.c-color-acento-contenido.mb-4 Pódcast
-          p.text-white.mb-4 Los invitamos a escuchar el episodio, en esta ocasión, Don Campos y Azusena se unirán para explicar detalladamente la importancia del suelo en la agricultura. Descubran cómo mantener un suelo sano y fértil mediante prácticas agroecológicas que no solo mejoran la calidad de las cosechas, sino que también contribuyen a la sostenibilidad del medio ambiente. ¡No se lo pierdan!
+          p.text-white.mb-4 Los invitamos a escuchar el episodio, en esta ocasión, Don Campos y Azusena se unirán para explicar detalladamente la importancia del suelo en la agricultura. Descubran cómo mantener un suelo sano y fértil mediante prácticas agroecológicas que no solo mejoran la calidad de las cosechas, sino que también contribuyen a la sostenibilidad del medioambiente. ¡No se lo pierdan!
 
           .row 
             .col-lg-6

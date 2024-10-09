@@ -59,13 +59,18 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Prácticas de recuperación de suelos',
+            titulo: 'Prácticas de conservación de suelos',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Prácticas de fertilización agroecológica',
+            titulo: 'Prácticas de recuperación de suelos',
             hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Prácticas de fertilización agroecológica',
+            hash: 't_3_4',
           },
         ],
       },
